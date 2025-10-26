@@ -1,5 +1,7 @@
 ## Hi there 👋
 <h1>Mi nombre es Nicolas Machado</h1>
+<p>I'm starting my journey with HTML and CSS.</p>
+<p>JavaScript coming soon.</p>
 <!--
 **NicoMachadoDev/NicoMachadoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
