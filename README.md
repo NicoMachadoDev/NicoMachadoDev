@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 style="color:green background-color:beige >">Mi nombre es Nicolas Machado</h1>
+<h1 style="color:green background-color:beige">Mi nombre es Nicolas Machado</h1>
 <p>I'm starting my journey with HTML and CSS.</p>
 <p>JavaScript coming soon.</p>
 <!--
